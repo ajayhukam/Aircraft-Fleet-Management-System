@@ -37,4 +37,4 @@ To set up and run the Airport Management System, follow these steps:
 
 This README includes all the necessary sections to give potential users and contributors a clear understanding of your project, how to set it up, and what the project is about. Let me know if you'd like any modifications!
 
-### Author: AJAY
+### Author: Ajay
