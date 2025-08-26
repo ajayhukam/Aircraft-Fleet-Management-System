@@ -1,5 +1,4 @@
--- Airport Management System --
--- DB Design Fall 2016--
+-- Aircraft Fleet Management System --
 
 CREATE TABLE CITY
 (CNAME VARCHAR2(15) NOT NULL,
@@ -615,4 +614,5 @@ WHERE DATE_OF_BOOKING ='11-NOV-16'
 AND SOURCE='BOM'
 AND DESTINATION='DFW'
 AND CLASS='ECONOMY'
+
 
